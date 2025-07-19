@@ -1,0 +1,2 @@
+-- Solution for Median Employee Salary problem
+-- Write your SQL solution here
