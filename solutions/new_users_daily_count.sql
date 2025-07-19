@@ -1,0 +1,2 @@
+-- Solution for New Users Daily Count problem
+-- Write your SQL solution here
