@@ -1,0 +1,2 @@
+-- Active Businesses Solution
+-- Write your SQL solution here
