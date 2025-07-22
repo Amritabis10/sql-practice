@@ -1,0 +1,2 @@
+-- User Purchase Platform Solution
+-- Write your SQL solution here
