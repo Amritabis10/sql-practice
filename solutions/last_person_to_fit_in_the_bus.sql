@@ -1,0 +1,2 @@
+-- Last Person to Fit in the Bus
+-- Write your SQL solution here
