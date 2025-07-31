@@ -1,0 +1,2 @@
+-- Queries Quality and Percentage
+-- Write your SQL solution here
