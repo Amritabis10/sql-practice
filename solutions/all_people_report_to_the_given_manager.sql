@@ -1,0 +1,2 @@
+-- All People Report to the Given Manager Solution
+-- Write your SQL solution here
