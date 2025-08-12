@@ -1,0 +1,2 @@
+-- Solution for: Find the Start and End Number of Continuous Ranges
+-- Write your SQL solution here
