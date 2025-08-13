@@ -1,0 +1,2 @@
+-- Solution for: Weather Type in Each Country
+-- Write your SQL solution here
