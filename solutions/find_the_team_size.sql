@@ -1,0 +1,2 @@
+-- Find the Team Size
+-- Write your solution here
