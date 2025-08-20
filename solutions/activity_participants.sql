@@ -1,0 +1,2 @@
+-- Activity Participants
+-- Find the names of all the activities with neither the maximum nor the minimum number of participants.
