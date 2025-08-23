@@ -1,0 +1,2 @@
+-- Get the Second Most Recent Activity
+-- Write your SQL solution here
