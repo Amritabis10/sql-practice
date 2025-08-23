@@ -1,0 +1,2 @@
+-- Capital Gain/Loss
+-- Write your SQL solution here
