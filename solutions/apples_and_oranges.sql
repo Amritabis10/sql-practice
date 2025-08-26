@@ -1,0 +1,2 @@
+-- Solution for Apples & Oranges problem
+-- Write your SQL solution here
