@@ -1,0 +1,2 @@
+-- Countries You Can Safely Invest In
+-- Write your solution here
