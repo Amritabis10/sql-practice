@@ -1,0 +1,2 @@
+-- Solution for: Fix Product Name Format
+-- Write your SQL solution here
