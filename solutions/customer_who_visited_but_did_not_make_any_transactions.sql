@@ -1,0 +1,2 @@
+-- Solution for Customer Who Visited but Did Not Make Any Transactions problem
+-- Write your SQL solution here
