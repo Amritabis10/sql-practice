@@ -1,0 +1,2 @@
+-- Solution for Warehouse Manager problem
+-- Write your SQL solution here
