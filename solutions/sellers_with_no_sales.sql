@@ -1,0 +1,2 @@
+-- Solution for Sellers With No Sales
+-- Write your SQL solution here
