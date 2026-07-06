@@ -1,5 +1,7 @@
 # Find the Team Size
 
+[Solution](../solutions/find_the_team_size.sql)
+
 **Difficulty:** Easy
 
 ## Problem Statement

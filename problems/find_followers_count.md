@@ -1,5 +1,7 @@
 # Find Followers Count
 
+[Solution](../solutions/find_followers_count.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

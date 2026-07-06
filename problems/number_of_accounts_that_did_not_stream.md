@@ -1,5 +1,7 @@
 # Number of Accounts That Did Not Stream
 
+[Solution](../solutions/number_of_accounts_that_did_not_stream.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

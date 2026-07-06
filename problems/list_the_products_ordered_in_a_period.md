@@ -1,5 +1,7 @@
 # List the Products Ordered in a Period
 
+[Solution](../solutions/list_the_products_ordered_in_a_period.sql)
+
 **Difficulty:** Easy
 
 ## Problem Statement

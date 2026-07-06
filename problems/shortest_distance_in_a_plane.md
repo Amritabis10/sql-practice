@@ -1,5 +1,7 @@
 # Problem: Shortest Distance in a Plane
 
+[Solution](../solutions/shortest_distance_in_a_plane.sql)
+
 ## Table: Point2D
 
 | Column Name | Type |

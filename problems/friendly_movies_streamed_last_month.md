@@ -1,5 +1,7 @@
 # Friendly Movies Streamed Last Month
 
+[Solution](../solutions/friendly_movies_streamed_last_month.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

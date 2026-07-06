@@ -1,5 +1,7 @@
 # Find the Start and End Number of Continuous Ranges
 
+[Solution](../solutions/start_and_end_number_of_continuous_ranges.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

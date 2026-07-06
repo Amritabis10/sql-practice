@@ -1,5 +1,6 @@
-
 # Problem: Customer Placing the Largest Number of Orders
+
+[Solution](../solutions/customer_placing_largest_number_of_orders.sql)
 
 ## Table: Orders
 

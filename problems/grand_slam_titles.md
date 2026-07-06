@@ -1,5 +1,7 @@
 # Grand Slam Titles
 
+[Solution](../solutions/grand_slam_titles.sql)
+
 **Difficulty:** Medium
 
 ## SQL Schema

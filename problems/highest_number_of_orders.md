@@ -1,5 +1,7 @@
 # Highest Number Of Orders
 
+[Solution](../solutions/highest_number_of_orders.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Problem: Friend Requests I: Overall Acceptance Rate
 
+[Solution](../solutions/friend_requests_overall_acceptance_rate.sql)
+
 ## Table: FriendRequest
 
 | Column Name    | Type |

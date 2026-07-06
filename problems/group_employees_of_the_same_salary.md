@@ -1,5 +1,7 @@
 # Group Employees of the Same Salary
 
+[Solution](../solutions/group_employees_of_the_same_salary.sql)
+
 **Difficulty:** Medium
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Weather Type in Each Country
 
+[Solution](../solutions/weather_type_in_each_country.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Problem: Consecutive Numbers
 
+[Solution](../solutions/consecutive_numbers.sql)
+
 ## Table: Logs
 
 | Column Name | Type    |

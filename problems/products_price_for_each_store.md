@@ -1,5 +1,7 @@
 # Product's Price for Each Store
 
+[Solution](../solutions/products_price_for_each_store.sql)
+
 **Difficulty:** Easy  
 **Topics:** SQL  
 **Companies:** Multiple

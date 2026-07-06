@@ -1,5 +1,7 @@
 # Problem: Customers Who Bought All Products
 
+[Solution](../solutions/customers_who_bought_all_products.sql)
+
 ## Table: Customer
 
 | Column Name | Type |

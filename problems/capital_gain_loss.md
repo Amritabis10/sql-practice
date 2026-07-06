@@ -1,5 +1,7 @@
 # Capital Gain/Loss
 
+[Solution](../solutions/capital_gain_loss.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL, Aggregation
 

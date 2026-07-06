@@ -1,5 +1,7 @@
 # Page Recommendations
 
+[Solution](../solutions/page_recommendations.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Find Customers With Positive Revenue this Year
 
+[Solution](../solutions/find_customers_with_positive_revenue_this_year.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Sellers With No Sales
 
+[Solution](../solutions/sellers_with_no_sales.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

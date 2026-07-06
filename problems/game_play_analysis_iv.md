@@ -1,5 +1,7 @@
 # Game Play Analysis IV
 
+[Solution](../solutions/game_play_analysis_iv.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

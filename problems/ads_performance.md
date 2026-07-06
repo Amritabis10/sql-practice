@@ -1,5 +1,7 @@
 # Ads Performance
 
+[Solution](../solutions/ads_performance.sql)
+
 **Difficulty:** Easy
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Average Time of Process per Machine
 
+[Solution](../solutions/average_time_of_process_per_machine.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

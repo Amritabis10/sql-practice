@@ -1,5 +1,7 @@
 # Calculate Salaries
 
+[Solution](../solutions/calculate_salaries.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

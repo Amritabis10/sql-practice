@@ -1,5 +1,7 @@
 # Reformat Department Table
 
+[Solution](../solutions/reformat_department_table.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

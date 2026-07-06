@@ -1,5 +1,7 @@
 # Product's Worth Over Invoices
 
+[Solution](../solutions/products_worth_over_invoices.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

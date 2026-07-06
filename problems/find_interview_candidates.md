@@ -1,5 +1,7 @@
 # Find Interview Candidates
 
+[Solution](../solutions/find_interview_candidates.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Find Total Time Spent by Each Employee
 
+[Solution](../solutions/find_total_time_spent_by_each_employee.sql)
+
 **Difficulty:** Easy
 
 ## Problem Statement

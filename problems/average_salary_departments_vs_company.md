@@ -1,5 +1,7 @@
 # Problem: Average Salary: Departments VS Company
 
+[Solution](../solutions/average_salary_departments_vs_company.sql)
+
 ## Table: Salary
 
 | Column Name | Type |

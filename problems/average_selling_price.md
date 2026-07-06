@@ -1,5 +1,7 @@
 # Average Selling Price
 
+[Solution](../solutions/average_selling_price.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

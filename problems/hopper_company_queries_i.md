@@ -1,5 +1,7 @@
 # Hopper Company Queries I
 
+[Solution](../solutions/hopper_company_queries_i.sql)
+
 **Difficulty:** Hard  
 **Topics:** SQL  
 **Companies:** Hopper

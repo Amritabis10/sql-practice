@@ -1,5 +1,7 @@
 # User Purchase Platform
 
+[Solution](../solutions/user_purchase_platform.sql)
+
 **Difficulty:** Hard
 
 ## Problem Description

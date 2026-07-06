@@ -1,5 +1,7 @@
 # Problem: Swap Salary
 
+[Solution](../solutions/swap_salary.sql)
+
 ## Table: Salary
 
 | Column Name | Type    |

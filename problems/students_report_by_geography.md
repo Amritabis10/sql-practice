@@ -1,5 +1,7 @@
 # Problem: Students Report By Geography
 
+[Solution](../solutions/students_report_by_geography.sql)
+
 ## Table: Student
 
 | Column Name | Type    |

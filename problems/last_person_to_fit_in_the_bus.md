@@ -1,5 +1,7 @@
 # Last Person to Fit in the Bus
 
+[Solution](../solutions/last_person_to_fit_in_the_bus.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

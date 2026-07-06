@@ -1,5 +1,7 @@
 # Problem: Project Employees II
 
+[Solution](../solutions/project_employees_ii.sql)
+
 ## Table: Project
 
 | Column Name | Type |

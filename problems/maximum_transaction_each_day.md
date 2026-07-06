@@ -1,5 +1,7 @@
 # Maximum Transaction Each Day
 
+[Solution](../solutions/maximum_transaction_each_day.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

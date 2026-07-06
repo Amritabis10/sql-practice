@@ -1,5 +1,7 @@
 # Highest Grade For Each Student
 
+[Solution](../solutions/highest_grade_for_each_student.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

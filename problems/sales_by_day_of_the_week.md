@@ -1,5 +1,7 @@
 # Sales by Day of the Week
 
+[Solution](../solutions/sales_by_day_of_the_week.sql)
+
 **Difficulty:** Hard
 
 ## Problem Description

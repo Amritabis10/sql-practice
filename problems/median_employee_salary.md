@@ -1,5 +1,7 @@
 # Median Employee Salary
 
+[Solution](../solutions/median_employee_salary.sql)
+
 **Difficulty:** Hard
 
 ## Problem Description

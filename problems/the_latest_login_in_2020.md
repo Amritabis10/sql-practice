@@ -1,5 +1,7 @@
 # The Latest Login in 2020
 
+[Solution](../solutions/the_latest_login_in_2020.sql)
+
 **Difficulty:** Easy  
 **Topics:** SQL
 

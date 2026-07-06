@@ -1,5 +1,7 @@
 # Immediate Food Delivery II
 
+[Solution](../solutions/immediate_food_delivery_ii.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

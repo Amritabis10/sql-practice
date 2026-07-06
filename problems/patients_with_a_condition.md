@@ -1,5 +1,7 @@
 # Patients With a Condition
 
+[Solution](../solutions/patients_with_a_condition.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

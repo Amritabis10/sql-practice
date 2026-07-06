@@ -1,5 +1,7 @@
 # Find the Missing IDs
 
+[Solution](../solutions/find_the_missing_ids.sql)
+
 **Difficulty:** Medium
 
 ## Problem Statement

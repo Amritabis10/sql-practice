@@ -1,5 +1,7 @@
 # Employees With Missing Information
 
+[Solution](../solutions/employees_with_missing_information.sql)
+
 **Difficulty:** Easy
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Group Sold Products By The Date
 
+[Solution](../solutions/group_sold_products_by_the_date.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

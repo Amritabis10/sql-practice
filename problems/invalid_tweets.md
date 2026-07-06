@@ -1,5 +1,7 @@
 # Invalid Tweets
 
+[Solution](../solutions/invalid_tweets.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

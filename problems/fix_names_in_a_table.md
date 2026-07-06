@@ -1,5 +1,7 @@
 # Fix Names in a Table
 
+[Solution](../solutions/fix_names_in_a_table.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

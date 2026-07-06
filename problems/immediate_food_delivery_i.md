@@ -1,5 +1,7 @@
 # Immediate Food Delivery I
 
+[Solution](../solutions/immediate_food_delivery_i.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

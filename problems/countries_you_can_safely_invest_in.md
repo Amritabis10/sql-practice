@@ -1,5 +1,7 @@
 # Countries You Can Safely Invest In
 
+[Solution](../solutions/countries_you_can_safely_invest_in.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL Schema, Pandas Schema
 

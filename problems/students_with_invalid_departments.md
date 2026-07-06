@@ -1,5 +1,7 @@
 # Students With Invalid Departments
 
+[Solution](../solutions/students_with_invalid_departments.sql)
+
 **Difficulty:** Easy
 
 ## Problem Statement

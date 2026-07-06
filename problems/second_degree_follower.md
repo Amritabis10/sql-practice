@@ -1,5 +1,7 @@
 # Problem: Second Degree Follower
 
+[Solution](../solutions/second_degree_follower.sql)
+
 ## Table: Follow
 
 | Column Name | Type    |

@@ -1,5 +1,7 @@
 # Problem: Not Boring Movies
 
+[Solution](../solutions/not_boring_movies.sql)
+
 ## Table: Cinema
 
 | Column Name    | Type    |

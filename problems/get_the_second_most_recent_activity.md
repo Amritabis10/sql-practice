@@ -1,5 +1,7 @@
 # Get the Second Most Recent Activity
 
+[Solution](../solutions/get_the_second_most_recent_activity.sql)
+
 **Difficulty:** Hard  
 **Topics:** SQL, Window Functions, Ranking
 

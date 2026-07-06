@@ -1,5 +1,7 @@
 # Biggest Window Between Visits
 
+[Solution](../solutions/biggest_window_between_visits.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

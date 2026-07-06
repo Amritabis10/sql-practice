@@ -1,5 +1,7 @@
 # Article Views II
 
+[Solution](../solutions/article_views_ii.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

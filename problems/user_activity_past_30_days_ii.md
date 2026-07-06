@@ -1,5 +1,7 @@
 # User Activity for the Past 30 Days II
 
+[Solution](../solutions/user_activity_past_30_days_ii.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

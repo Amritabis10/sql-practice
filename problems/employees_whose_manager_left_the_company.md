@@ -1,4 +1,6 @@
-﻿# Employees Whose Manager Left the Company
+# Employees Whose Manager Left the Company
+
+[Solution](../solutions/employees_whose_manager_left_the_company.sql)
 
 **Difficulty:** Easy
 

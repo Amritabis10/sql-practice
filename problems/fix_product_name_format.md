@@ -1,5 +1,7 @@
 # Fix Product Name Format
 
+[Solution](../solutions/fix_product_name_format.sql)
+
 **Difficulty:** Easy  
 **Topics:** SQL Schema, Pandas Schema
 

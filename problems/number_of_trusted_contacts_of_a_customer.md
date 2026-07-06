@@ -1,5 +1,7 @@
 # Number of Trusted Contacts of a Customer
 
+[Solution](../solutions/number_of_trusted_contacts_of_a_customer.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

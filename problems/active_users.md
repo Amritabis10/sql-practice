@@ -1,5 +1,7 @@
 # Active Users
 
+[Solution](../solutions/active_users.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

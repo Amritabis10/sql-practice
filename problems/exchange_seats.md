@@ -1,5 +1,7 @@
 # Problem: Exchange Seats
 
+[Solution](../solutions/exchange_seats.sql)
+
 ## Table: Seat
 
 | Column Name | Type    |

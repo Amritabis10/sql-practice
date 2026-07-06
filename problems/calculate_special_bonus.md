@@ -1,5 +1,7 @@
 # Calculate Special Bonus
 
+[Solution](../solutions/calculate_special_bonus.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

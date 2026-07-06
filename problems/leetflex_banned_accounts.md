@@ -1,5 +1,7 @@
 # Leetflex Banned Accounts
 
+[Solution](../solutions/leetflex_banned_accounts.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL  
 **Companies:** Multiple

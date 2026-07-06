@@ -1,5 +1,7 @@
 # Problem: Product Sales Analysis I
 
+[Solution](../solutions/product_sales_analysis_i.sql)
+
 ## Table: Sales
 
 | Column Name | Type |

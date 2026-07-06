@@ -1,5 +1,7 @@
 # Customers Who Bought Products A and B but Not C
 
+[Solution](../solutions/customers_who_bought_products_a_and_b_but_not_c.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL, JOIN, Aggregation
 

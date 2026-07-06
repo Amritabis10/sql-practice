@@ -1,5 +1,7 @@
 # Evaluate Boolean Expression
 
+[Solution](../solutions/evaluate_boolean_expression.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

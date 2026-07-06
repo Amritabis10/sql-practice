@@ -1,5 +1,7 @@
 # All People Report to the Given Manager
 
+[Solution](../solutions/all_people_report_to_the_given_manager.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Active Businesses
 
+[Solution](../solutions/active_businesses.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

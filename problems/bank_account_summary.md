@@ -1,5 +1,7 @@
 # Bank Account Summary
 
+[Solution](../solutions/bank_account_summary.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

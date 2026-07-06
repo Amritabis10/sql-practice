@@ -1,5 +1,7 @@
 # Bank Account Summary II
 
+[Solution](../solutions/bank_account_summary_ii.sql)
+
 **Difficulty:** Easy  
 **Topics:** SQL  
 

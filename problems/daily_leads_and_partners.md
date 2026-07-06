@@ -1,5 +1,7 @@
 # Daily Leads and Partners
 
+[Solution](../solutions/daily_leads_and_partners.sql)
+
 **Difficulty:** Easy  
 **Topics:** SQL Schema
 

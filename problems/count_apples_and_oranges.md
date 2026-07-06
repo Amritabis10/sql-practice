@@ -1,5 +1,7 @@
 # Count Apples and Oranges
 
+[Solution](../solutions/count_apples_and_oranges.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

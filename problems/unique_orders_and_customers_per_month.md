@@ -1,5 +1,7 @@
 # Unique Orders and Customers Per Month
 
+[Solution](../solutions/unique_orders_and_customers_per_month.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

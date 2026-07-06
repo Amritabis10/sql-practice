@@ -1,5 +1,7 @@
 # Top Monthly Sellers
 
+[Solution](../solutions/top_monthly_sellers.sql)
+
 ## Problem Description
 
 You are provided with an already aggregated dataset from Amazon that contains detailed information about sales across different products and marketplaces. Your task is to list the top 3 sellers in each product category for January. In case of ties, rank them the same and include all sellers tied for that position.

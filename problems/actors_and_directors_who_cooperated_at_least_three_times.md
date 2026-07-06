@@ -1,5 +1,7 @@
 # Problem: Actors and Directors Who Cooperated At Least Three Times
 
+[Solution](../solutions/actors_and_directors_who_cooperated_at_least_three_times.sql)
+
 ## Table: ActorDirector
 
 | Column Name | Type |

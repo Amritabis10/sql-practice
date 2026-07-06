@@ -1,5 +1,7 @@
 # Aggregate Listening Data
 
+[Solution](../solutions/aggregate_listening_data.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # The Number of Employees Which Report to Each Employee
 
+[Solution](../solutions/number_of_employees_which_report_to_each_employee.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

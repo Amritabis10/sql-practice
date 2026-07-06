@@ -1,5 +1,7 @@
 # Movie Duration Match
 
+[Solution](../solutions/movie_duration_match.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Problem: Combine Two Tables
 
+[Solution](../solutions/combine_two_tables.sql)
+
 ## Table: Person
 
 | Column Name | Type    |

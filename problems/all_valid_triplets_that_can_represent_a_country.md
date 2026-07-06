@@ -1,5 +1,7 @@
 # All Valid Triplets That Can Represent a Country
 
+[Solution](../solutions/all_valid_triplets_that_can_represent_a_country.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

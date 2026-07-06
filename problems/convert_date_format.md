@@ -1,5 +1,7 @@
 # Convert Date Format
 
+[Solution](../solutions/convert_date_format.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

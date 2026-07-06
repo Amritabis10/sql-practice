@@ -1,5 +1,7 @@
 # Problem: Second Highest Salary
 
+[Solution](../solutions/second_highest_salary.sql)
+
 ## Table: Employee
 
 | Column Name | Type |

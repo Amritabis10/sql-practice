@@ -1,5 +1,7 @@
 # Customer Who Visited but Did Not Make Any Transactions
 
+[Solution](../solutions/customer_who_visited_but_did_not_make_any_transactions.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Problem: Shortest Distance in a Line
 
+[Solution](../solutions/shortest_distance_in_a_line.sql)
+
 ## Table: Point
 
 | Column Name | Type |

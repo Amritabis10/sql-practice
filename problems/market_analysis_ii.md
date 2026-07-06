@@ -1,5 +1,7 @@
 # Market Analysis II
 
+[Solution](../solutions/market_analysis_ii.sql)
+
 **Difficulty:** Hard
 
 ## Problem Description

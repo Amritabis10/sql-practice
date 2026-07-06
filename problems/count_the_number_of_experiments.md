@@ -1,4 +1,6 @@
-﻿# Count the Number of Experiments
+# Count the Number of Experiments
+
+[Solution](../solutions/count_the_number_of_experiments.sql)
 
 **Difficulty:** Medium
 

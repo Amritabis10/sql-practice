@@ -1,5 +1,7 @@
 # Market Analysis I
 
+[Solution](../solutions/market_analysis_i.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

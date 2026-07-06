@@ -1,5 +1,7 @@
 # Low-Quality Problems
 
+[Solution](../solutions/low_quality_problems.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

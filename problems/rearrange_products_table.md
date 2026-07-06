@@ -1,5 +1,7 @@
 # Rearrange Products Table
 
+[Solution](../solutions/rearrange_products_table.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

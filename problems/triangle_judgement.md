@@ -1,5 +1,7 @@
 # Problem: Triangle Judgement
 
+[Solution](../solutions/triangle_judgement.sql)
+
 ## Table: Triangle
 
 | Column Name | Type |

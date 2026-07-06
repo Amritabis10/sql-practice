@@ -1,5 +1,7 @@
 # Monthly Transactions I
 
+[Solution](../solutions/monthly_transactions_i.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

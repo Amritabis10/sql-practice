@@ -1,5 +1,7 @@
 # Count Salary Categories
 
+[Solution](../solutions/count_salary_categories.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL
 

@@ -1,5 +1,7 @@
 # Accepted Candidates From the Interviews
 
+[Solution](../solutions/accepted_candidates_from_the_interviews.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

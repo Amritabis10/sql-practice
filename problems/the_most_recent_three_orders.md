@@ -1,5 +1,7 @@
 # The Most Recent Three Orders
 
+[Solution](../solutions/the_most_recent_three_orders.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL Schema, Pandas Schema
 

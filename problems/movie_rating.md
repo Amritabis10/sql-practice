@@ -1,5 +1,7 @@
 # Movie Rating
 
+[Solution](../solutions/movie_rating.sql)
+
 **Difficulty:** Medium
 
 ## Problem Statement

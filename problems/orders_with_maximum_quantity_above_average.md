@@ -1,5 +1,7 @@
 # Orders With Maximum Quantity Above Average
 
+[Solution](../solutions/orders_with_maximum_quantity_above_average.sql)
+
 **Difficulty:** Medium
 
 ## SQL Schema

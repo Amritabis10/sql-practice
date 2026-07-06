@@ -1,5 +1,7 @@
 # Activity Participants
 
+[Solution](../solutions/activity_participants.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL  
 

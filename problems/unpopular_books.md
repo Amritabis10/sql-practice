@@ -1,5 +1,7 @@
 # Unpopular Books
 
+[Solution](../solutions/unpopular_books.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Warehouse Manager
 
+[Solution](../solutions/warehouse_manager.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

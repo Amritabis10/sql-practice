@@ -1,5 +1,7 @@
 # Apples & Oranges
 
+[Solution](../solutions/apples_and_oranges.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL  
 **Companies:** Various  

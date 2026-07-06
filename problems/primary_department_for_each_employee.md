@@ -1,5 +1,7 @@
 # Primary Department for Each Employee
 
+[Solution](../solutions/primary_department_for_each_employee.sql)
+
 **Difficulty:** Easy
 
 ## SQL Schema

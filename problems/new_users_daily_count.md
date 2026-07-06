@@ -1,5 +1,7 @@
 # New Users Daily Count
 
+[Solution](../solutions/new_users_daily_count.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Problem: Sales Person
 
+[Solution](../solutions/sales_person.sql)
+
 ## Table: SalesPerson
 
 | Column Name     | Type    |

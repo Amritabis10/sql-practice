@@ -1,5 +1,7 @@
 # Queries Quality and Percentage
 
+[Solution](../solutions/queries_quality_and_percentage.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

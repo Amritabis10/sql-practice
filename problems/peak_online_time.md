@@ -1,5 +1,7 @@
 # Peak Online Time
 
+[Solution](../solutions/peak_online_time.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

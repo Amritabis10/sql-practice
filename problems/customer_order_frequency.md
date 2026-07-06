@@ -1,5 +1,7 @@
 # Customer Order Frequency
 
+[Solution](../solutions/customer_order_frequency.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

@@ -1,5 +1,7 @@
 # Problem: Human Traffic of Stadium
 
+[Solution](../solutions/human_traffic_of_stadium.sql)
+
 ## Table: Stadium
 
 | Column Name   | Type |

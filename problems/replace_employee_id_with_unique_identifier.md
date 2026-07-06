@@ -1,5 +1,7 @@
 # Replace Employee ID With The Unique Identifier
 
+[Solution](../solutions/replace_employee_id_with_unique_identifier.sql)
+
 **Difficulty:** Easy  
 **Topics:** SQL, JOIN
 

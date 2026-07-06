@@ -1,5 +1,7 @@
 # The Most Frequently Ordered Products for Each Customer
 
+[Solution](../solutions/the_most_frequently_ordered_products_for_each_customer.sql)
+
 **Difficulty:** Medium  
 **Topics:** SQL  
 

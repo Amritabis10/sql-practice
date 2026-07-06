@@ -1,5 +1,7 @@
 # Problem: Biggest Single Number
 
+[Solution](../solutions/biggest_single_number.sql)
+
 ## Table: MyNumbers
 
 | Column Name | Type |

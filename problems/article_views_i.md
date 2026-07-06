@@ -1,5 +1,7 @@
 # Article Views I
 
+[Solution](../solutions/article_views_i.sql)
+
 **Difficulty:** Easy
 
 ## Problem Description

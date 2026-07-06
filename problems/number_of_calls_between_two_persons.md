@@ -1,5 +1,7 @@
 # Number of Calls Between Two Persons
 
+[Solution](../solutions/number_of_calls_between_two_persons.sql)
+
 **Difficulty:** Medium
 
 ## Problem Description
