@@ -1,0 +1,48 @@
+# Problem: Second Highest Salary
+
+[Solution](../../solutions/06_window_functions_and_ranking/011_second_highest_salary.sql)
+
+## Table: Employee
+
+| Column Name | Type |
+|-------------|------|
+| id          | int  |
+| salary      | int  |
+
+- `id` is the primary key for this table.
+- Each row of this table contains information about the salary of an employee.
+
+## Task
+Write a solution to find the second highest distinct salary from the Employee table. If there is no second highest salary, return null.
+
+The result format should be in the following example.
+
+## Example 1
+
+### Input
+Employee table:
+
+| id | salary |
+|----|--------|
+| 1  | 100    |
+| 2  | 200    |
+| 3  | 300    |
+
+### Output
+| SecondHighestSalary |
+|---------------------|
+| 200                 |
+
+## Example 2
+
+### Input
+Employee table:
+
+| id | salary |
+|----|--------|
+| 1  | 100    |
+
+### Output
+| SecondHighestSalary |
+|---------------------|
+| null                |
